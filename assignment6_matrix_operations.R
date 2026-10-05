@@ -24,3 +24,6 @@ C[, 1] <- c(3, 2, 2, 2, 2)
 C[1, ] <- c(3, 1, 1, 1, 1)
 
 C
+
+#BLOG LINK
+#https://trent031204.blogspot.com/2026/10/assignment-6-matrix-operations-and.html
