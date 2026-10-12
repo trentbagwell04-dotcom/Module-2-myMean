@@ -1,3 +1,4 @@
+#Blog Link "https://trent031204.blogspot.com/2026/10/assignment-7-exploring-rs.html"
 
 # Assignment #7: Generic Functions, S3, and S4
 # Step 1: Load and inspect the mtcars dataset
