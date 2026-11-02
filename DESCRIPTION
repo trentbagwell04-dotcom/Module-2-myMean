@@ -1,0 +1,20 @@
+
+Package: Friedman
+Title: Tools for Data Analysis and Visualization
+Version: 0.0.0.9000
+Authors@R: person("Trent", "Bagwell",
+    email = "trentbagwell04@gmail.com",
+    role = c("aut", "cre"))
+Description: Provides tools for exploring, summarizing, and
+    visualizing datasets in R. The package helps users identify
+    patterns, compare variables, and create graphs using
+    common data analysis techniques.
+License: CC0
+Encoding: UTF-8
+Depends: R (>= 3.1.2)
+Imports:
+    ggplot2,
+    dplyr
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
