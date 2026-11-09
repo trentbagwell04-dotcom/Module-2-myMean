@@ -1,6 +1,6 @@
 # Assignment #11 - Debugging in R
 # File: module11_debug.R
-
+#Blog: https://trent031204.blogspot.com/2026/11/assignment-11-debugging-logical.html
 # Define Tukey outlier function
 tukey.outlier <- function(x) {
   q1 <- quantile(x, 0.25)
